@@ -51,7 +51,7 @@ p.imgtitle {
   line-height: 130%;
 }
 
-table {
+#myTable {
   border: 3px solid #0a82f7;
 }
 
@@ -68,7 +68,4 @@ th {
 }
 tr {
   background-color: white;
-}
-#myTable {
-  border: 1px solid;
 }
