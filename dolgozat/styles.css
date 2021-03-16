@@ -69,3 +69,12 @@ th {
 tr {
   background-color: white;
 }
+a:link {
+  color: black;
+}
+a:active {
+  color: yellow;
+}
+a:visited {
+  color: black;
+}
