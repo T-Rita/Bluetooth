@@ -69,3 +69,6 @@ th {
 tr {
   background-color: white;
 }
+#myTable {
+  border: 1px solid;
+}
